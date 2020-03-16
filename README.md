@@ -1,1 +1,1 @@
-# Programacao-Dispositivos-Moveis
+# Disciplina de Programação para Dispositivos Móveis
