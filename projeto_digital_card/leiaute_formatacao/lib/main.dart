@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
   Container buildContainer(String text, Color color) {
     return Container(
       width: 390,
-      height: 100,
+      height: 200,
       color: color,
       child: Text(text),
     );
